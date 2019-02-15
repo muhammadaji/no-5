@@ -6,4 +6,6 @@ main = (email) => {
     }
 }
 
-main('loroyangtau@gmail.com');
+main('kdjas6242@gmail.com');
+main('makan bakso');
+main('Hubungin asgfugiyg6642@gmail.com');
